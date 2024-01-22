@@ -8,7 +8,7 @@ import net.minecraft.world.food.FoodProperties;
 
 public class CookedchevalItem extends Item {
 	public CookedchevalItem() {
-		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(7).saturationMod(9.9f)
+		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(7).saturationMod(1.7f)
 
 				.meat().build()));
 	}

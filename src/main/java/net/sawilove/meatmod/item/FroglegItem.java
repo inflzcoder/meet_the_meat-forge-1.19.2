@@ -16,7 +16,7 @@ import net.minecraft.world.InteractionHand;
 
 public class FroglegItem extends Item {
 	public FroglegItem() {
-		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(1).saturationMod(0f)
+		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(1).saturationMod(0.1f)
 
 				.build()));
 	}
