@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "meatmod:frog_leg"
+  },
+  "result": "meatmod:cooked_frog_leg"
+}

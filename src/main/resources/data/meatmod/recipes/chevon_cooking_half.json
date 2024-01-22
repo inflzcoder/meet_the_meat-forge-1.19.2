@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "meatmod:raw_chevon"
+  },
+  "result": "meatmod:cooked_chevon"
+}

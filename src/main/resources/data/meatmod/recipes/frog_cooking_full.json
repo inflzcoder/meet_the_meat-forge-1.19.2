@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "meatmod:frog_leg"
+  },
+  "result": "meatmod:cooked_frog_leg"
+}

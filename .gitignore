@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/.mcreator/
+/build/
+/build/classes/java/main/
